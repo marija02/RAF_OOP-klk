@@ -1,0 +1,6 @@
+Film{naziv='Duga', zanr=BIOGRAFSKI, rejting=10.0}
+Film{naziv='Inception', zanr=HOROR, rejting=9.45}
+Glumac{lepGlas=true}
+Glumac{lepGlas=true}
+ClanEkipe{ime='Dragan', prezime='Bijelogrlic', datumRodjenja=Sun Apr 03 00:00:00 CEST 3870, pol=MUSKI}
+
